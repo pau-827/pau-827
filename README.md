@@ -1,15 +1,10 @@
 # Hi there! 👋 I'm **Pau**
 
-**[Your Course/Year, e.g. Computer Science Student] & [Your Focus, e.g. Aspiring Software Engineer]**
+**[A Bachelor of Science in Computer Science student] & [I'm still lost.]**
 
-*Building useful, thoughtful software, one project at a time.*
+*Hoping to learn more and build more.*
 
 ---
-
-### 🎓 Education & Roles
-
-- 🏛️ **[Your Course]** at [Your School](https://your-school-link.edu.ph/)
-- 🤝 **[Your Org / Role, optional]** at [Organization Name](https://link-to-org)
 
 ### 🛠️ Technical Stack
 
@@ -20,33 +15,22 @@
 | **DevOps & Cloud** | ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-c4b5fd?logo=githubactions&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-c4b5fd?logo=docker&logoColor=black) ![Azure](https://img.shields.io/badge/-Azure-c4b5fd?logo=microsoftazure&logoColor=black) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-c4b5fd?logo=git&logoColor=black) ![GitHub](https://img.shields.io/badge/-GitHub-c4b5fd?logo=github&logoColor=black) ![VS Code](https://img.shields.io/badge/-VS_Code-c4b5fd?logo=visualstudiocode&logoColor=black) |
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**TaskWise**](https://github.com/pau-827/TaskWise) | An enhanced task organizer. Add, edit, delete and sort tasks, view them by category, track progress, and get in-app notifications. | Python |
-| [**BuzzBee**](https://github.com/pau-827/BuzzBee) | A computer vision project for a delivery robot. | Python, Jupyter Notebook |
-| [**LexiQuest**](https://github.com/pau-827/LexiQuest) | A lofi-inspired interactive lexical analyzer and mini language interpreter. | CSS, JavaScript |
-| [**NyanScape**](https://github.com/pau-827/NyanScape) | A web community centered on cat-related posts. | JavaScript |
-| [**se2-final-lt**](https://github.com/pau-827/se2-final-lt) | A simple CI/CD pipeline using GitHub Actions, Docker containerization, and deployment on Microsoft Azure. | Python, Docker, Azure |
 
 ### 🌱 About Me
 
-- 🔍 **Currently exploring:** [e.g. Backend development, cloud deployment, computer vision]
-- 💬 **Ask me about:** [e.g. Python projects, CI/CD basics, building web apps]
-- 🎯 **Looking for:** [e.g. internship / OJT opportunities, collaborations, open-source projects]
-- 🐱 **Off-duty:** [your hobbies, e.g. cats, music, games]
+- 🔍 **Currently exploring:** Anatomy, Psychology, anything unrelated to my course.
+- 💬 **Ask me about:** Something interesting.
+- 🎯 **Looking for:** Money. Maybe a free plot of land to build an apartment or something.
+- 🐱 **Off-duty:** Reading, Writing, Gaming, Watching Anime, Listening to music, Spacing out, Talking to myself.
 
 ### 📫 Connect with Me
 
-- 📧 **Email:** your.email@example.com
-- 💼 **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-link/)
-- 📘 **Facebook:** [Your Name](https://facebook.com/your-link)
-- 🌐 **Portfolio:** [your-site.com](https://your-site.com) *(optional)*
+- 📧 **Email:** ivmuit@my.cspc.edu.ph
+- 📧 **Email:** ivypaulinemuit@gmail.com
 
 ---
 
-*"[Your favorite quote or a short personal motto]"*
+*"Move less, earn more - hopefully."*
 
 <!-- Optional extras you can enable later:
 ![Pau's GitHub stats](https://github-readme-stats.vercel.app/api?username=pau-827&show_icons=true&theme=transparent)
