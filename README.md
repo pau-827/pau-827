@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm **Pau**
+# Greetings! 👋 I'm **Pau**
 
-**[A Bachelor of Science in Computer Science student] & [I'm still lost.]**
+**A Bachelor of Science in Computer Science student & I'm still lost.**
 
 *Hoping to learn more and build more.*
 
